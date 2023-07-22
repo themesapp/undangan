@@ -1,0 +1,84 @@
+{
+  "pria" : {
+    "nama": "",
+    "foto" : "",
+    "bapak": "",
+    "ibu": "",
+    "sosmed" : {
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "tiktok": ""
+    }
+  },
+  "wanita" : {
+    "nama": "",
+    "foto" : "",
+    "bapak": "",
+    "ibu": "",
+    "sosmed" : {
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": "",
+      "tiktok": ""
+    }
+  },
+  "galeri" : [
+    "url",
+    "url",
+    "url",
+    "url",
+    "url"
+  ],
+  "pernikahan" : {
+    "akad" : {
+      "jam" : "",
+      "hari" : "",
+      "tanggal" : "",
+      "bulan" : "",
+      "tahun" : "",
+      "lokasi" : {
+        "judul" : "",
+        "subjudul" : "",
+        "maps" : ""
+      }
+    },
+    "resepsi" : {
+      "jam" : "",
+      "hari" : "",
+      "tanggal" : "",
+      "bulan" : "",
+      "tahun" : "",
+      "lokasi" : {
+        "judul" : "",
+        "subjudul" : "",
+        "maps" : ""
+      }
+    }
+  },
+  "streaming" : {
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "amplop" : {
+    "brand": {
+      "nomor" : "",
+      "logo" : "",
+      "atasnama" : ""
+    },
+    "brand": {
+      "nomor" : "",
+      "logo" : "",
+      "atasnama" : ""
+    }
+  },
+  "kado" : {
+    "penerima" : "",
+    "nohp" : "",
+    "alamat" : ""
+  }
+}
